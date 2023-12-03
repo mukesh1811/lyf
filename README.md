@@ -1,10 +1,11 @@
-# lyf
+# lyf - plan your life, one day at a time
 
-plan your life, one day at a time
+I started this project to build a comprehensive life planner as well as learn [Flutter](https://flutter.dev/), the most versatile cross-platform development framework.
+DISCLAIMER: Project completion isn't guaranteed.
 
-## Getting Started
+### Learning Flutter
 
-This project is a starting point for a Flutter application.
+Flutter is a very versatile cross-platform development framework.
 
 A few resources to get you started if this is your first Flutter project:
 
